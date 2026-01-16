@@ -1,0 +1,17 @@
+/home/nh/workspace/ntierapp/ntier.DAL/bin/Debug/net8.0/ntier.DAL.deps.json
+/home/nh/workspace/ntierapp/ntier.DAL/bin/Debug/net8.0/ntier.DAL.dll
+/home/nh/workspace/ntierapp/ntier.DAL/bin/Debug/net8.0/ntier.DAL.pdb
+/home/nh/workspace/ntierapp/ntier.DAL/bin/Debug/net8.0/ntier.DataAccess.dll
+/home/nh/workspace/ntierapp/ntier.DAL/bin/Debug/net8.0/ntier.Models.dll
+/home/nh/workspace/ntierapp/ntier.DAL/bin/Debug/net8.0/ntier.Models.pdb
+/home/nh/workspace/ntierapp/ntier.DAL/bin/Debug/net8.0/ntier.DataAccess.pdb
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/ntier.DAL.csproj.AssemblyReference.cache
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/ntier.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/ntier.DAL.AssemblyInfoInputs.cache
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/ntier.DAL.AssemblyInfo.cs
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/ntier.DAL.csproj.CoreCompileInputs.cache
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/ntier.DAL.csproj.Up2Date
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/ntier.DAL.dll
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/refint/ntier.DAL.dll
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/ntier.DAL.pdb
+/home/nh/workspace/ntierapp/ntier.DAL/obj/Debug/net8.0/ref/ntier.DAL.dll

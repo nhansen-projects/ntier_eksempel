@@ -1,0 +1,11 @@
+/home/nh/workspace/ntierapp/ntier.Models/bin/Debug/net8.0/ntier.Models.deps.json
+/home/nh/workspace/ntierapp/ntier.Models/bin/Debug/net8.0/ntier.Models.dll
+/home/nh/workspace/ntierapp/ntier.Models/bin/Debug/net8.0/ntier.Models.pdb
+/home/nh/workspace/ntierapp/ntier.Models/obj/Debug/net8.0/ntier.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/nh/workspace/ntierapp/ntier.Models/obj/Debug/net8.0/ntier.Models.AssemblyInfoInputs.cache
+/home/nh/workspace/ntierapp/ntier.Models/obj/Debug/net8.0/ntier.Models.AssemblyInfo.cs
+/home/nh/workspace/ntierapp/ntier.Models/obj/Debug/net8.0/ntier.Models.csproj.CoreCompileInputs.cache
+/home/nh/workspace/ntierapp/ntier.Models/obj/Debug/net8.0/ntier.Models.dll
+/home/nh/workspace/ntierapp/ntier.Models/obj/Debug/net8.0/refint/ntier.Models.dll
+/home/nh/workspace/ntierapp/ntier.Models/obj/Debug/net8.0/ntier.Models.pdb
+/home/nh/workspace/ntierapp/ntier.Models/obj/Debug/net8.0/ref/ntier.Models.dll

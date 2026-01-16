@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AtpmpAwaUAQ=",
+  "success": true,
+  "projectFilePath": "/home/nh/workspace/ntierapp/ntierapp.API/ntierapp.API.csproj",
+  "expectedPackageFiles": [
+    "/home/nh/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.23/microsoft.dotnet.ilcompiler.8.0.23.nupkg.sha512",
+    "/home/nh/.nuget/packages/microsoft.net.illink.tasks/8.0.23/microsoft.net.illink.tasks.8.0.23.nupkg.sha512",
+    "/home/nh/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.23/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

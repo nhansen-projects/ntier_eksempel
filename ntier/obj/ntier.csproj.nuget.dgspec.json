@@ -1,0 +1,410 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nh/workspace/ntierapp/ntier/ntier.csproj": {}
+  },
+  "projects": {
+    "/home/nh/workspace/ntierapp/ntier.API/ntier.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nh/workspace/ntierapp/ntier.API/ntier.API.csproj",
+        "projectName": "ntier.API",
+        "projectPath": "/home/nh/workspace/ntierapp/ntier.API/ntier.API.csproj",
+        "packagesPath": "/home/nh/.nuget/packages/",
+        "outputPath": "/home/nh/workspace/ntierapp/ntier.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nh/workspace/ntierapp/ntier.BLL/ntier.BLL.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.BLL/ntier.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.3.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/nh/.dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nh/workspace/ntierapp/ntier.BLL/ntier.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nh/workspace/ntierapp/ntier.BLL/ntier.BLL.csproj",
+        "projectName": "ntier.BLL",
+        "projectPath": "/home/nh/workspace/ntierapp/ntier.BLL/ntier.BLL.csproj",
+        "packagesPath": "/home/nh/.nuget/packages/",
+        "outputPath": "/home/nh/workspace/ntierapp/ntier.BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nh/workspace/ntierapp/ntier.DAL/ntier.DAL.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.DAL/ntier.DAL.csproj"
+              },
+              "/home/nh/workspace/ntierapp/ntier.Models/ntier.Models.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.Models/ntier.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/nh/.dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nh/workspace/ntierapp/ntier.DAL/ntier.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nh/workspace/ntierapp/ntier.DAL/ntier.DAL.csproj",
+        "projectName": "ntier.DAL",
+        "projectPath": "/home/nh/workspace/ntierapp/ntier.DAL/ntier.DAL.csproj",
+        "packagesPath": "/home/nh/.nuget/packages/",
+        "outputPath": "/home/nh/workspace/ntierapp/ntier.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nh/workspace/ntierapp/ntier.DataAccess/ntier.DataAccess.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.DataAccess/ntier.DataAccess.csproj"
+              },
+              "/home/nh/workspace/ntierapp/ntier.Models/ntier.Models.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.Models/ntier.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/nh/.dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nh/workspace/ntierapp/ntier.DataAccess/ntier.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nh/workspace/ntierapp/ntier.DataAccess/ntier.DataAccess.csproj",
+        "projectName": "ntier.DataAccess",
+        "projectPath": "/home/nh/workspace/ntierapp/ntier.DataAccess/ntier.DataAccess.csproj",
+        "packagesPath": "/home/nh/.nuget/packages/",
+        "outputPath": "/home/nh/workspace/ntierapp/ntier.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nh/workspace/ntierapp/ntier.Models/ntier.Models.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.Models/ntier.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/nh/.dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nh/workspace/ntierapp/ntier.Models/ntier.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nh/workspace/ntierapp/ntier.Models/ntier.Models.csproj",
+        "projectName": "ntier.Models",
+        "projectPath": "/home/nh/workspace/ntierapp/ntier.Models/ntier.Models.csproj",
+        "packagesPath": "/home/nh/.nuget/packages/",
+        "outputPath": "/home/nh/workspace/ntierapp/ntier.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/nh/.dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nh/workspace/ntierapp/ntier/ntier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nh/workspace/ntierapp/ntier/ntier.csproj",
+        "projectName": "ntier",
+        "projectPath": "/home/nh/workspace/ntierapp/ntier/ntier.csproj",
+        "packagesPath": "/home/nh/.nuget/packages/",
+        "outputPath": "/home/nh/workspace/ntierapp/ntier/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nh/workspace/ntierapp/ntier.API/ntier.API.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.API/ntier.API.csproj"
+              },
+              "/home/nh/workspace/ntierapp/ntier.BLL/ntier.BLL.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.BLL/ntier.BLL.csproj"
+              },
+              "/home/nh/workspace/ntierapp/ntier.DAL/ntier.DAL.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.DAL/ntier.DAL.csproj"
+              },
+              "/home/nh/workspace/ntierapp/ntier.DataAccess/ntier.DataAccess.csproj": {
+                "projectPath": "/home/nh/workspace/ntierapp/ntier.DataAccess/ntier.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/nh/.dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

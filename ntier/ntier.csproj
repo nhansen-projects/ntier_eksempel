@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <InvariantGlobalization>true</InvariantGlobalization>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ntier.BLL\ntier.BLL.csproj" />
+      <ProjectReference Include="..\ntier.API\ntier.API.csproj" />
+      <ProjectReference Include="..\ntier.DAL\ntier.DAL.csproj" />
+      <ProjectReference Include="..\ntier.DataAccess\ntier.DataAccess.csproj" />
+    </ItemGroup>
+</Project>

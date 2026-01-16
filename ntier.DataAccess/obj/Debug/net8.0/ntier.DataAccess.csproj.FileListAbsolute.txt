@@ -1,0 +1,15 @@
+/home/nh/workspace/ntierapp/ntier.DataAccess/bin/Debug/net8.0/ntier.DataAccess.deps.json
+/home/nh/workspace/ntierapp/ntier.DataAccess/bin/Debug/net8.0/ntier.DataAccess.dll
+/home/nh/workspace/ntierapp/ntier.DataAccess/bin/Debug/net8.0/ntier.DataAccess.pdb
+/home/nh/workspace/ntierapp/ntier.DataAccess/bin/Debug/net8.0/ntier.Models.dll
+/home/nh/workspace/ntierapp/ntier.DataAccess/bin/Debug/net8.0/ntier.Models.pdb
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/ntier.DataAccess.csproj.AssemblyReference.cache
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/ntier.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/ntier.DataAccess.AssemblyInfoInputs.cache
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/ntier.DataAccess.AssemblyInfo.cs
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/ntier.DataAccess.csproj.CoreCompileInputs.cache
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/ntier.Da.FB28BD2A.Up2Date
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/ntier.DataAccess.dll
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/refint/ntier.DataAccess.dll
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/ntier.DataAccess.pdb
+/home/nh/workspace/ntierapp/ntier.DataAccess/obj/Debug/net8.0/ref/ntier.DataAccess.dll
